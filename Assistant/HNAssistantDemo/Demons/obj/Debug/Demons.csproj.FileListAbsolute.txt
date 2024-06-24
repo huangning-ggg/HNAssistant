@@ -46,3 +46,6 @@ E:\visual stdio c# file\Modularization\Assistants\Assistant2\HNAssistantDemo\Dem
 E:\visual stdio c# file\Modularization\Assistants\Assistant2\HNAssistantDemo\Demons\obj\Debug\Demons.FormMain.resources
 E:\visual stdio c# file\Modularization\Assistants\Assistant2\HNAssistantDemo\Demons\obj\Debug\Demons.Properties.Resources.resources
 E:\visual stdio c# file\Modularization\Assistants\Assistant2\HNAssistantDemo\Demons\obj\Debug\Demons.csproj.GenerateResource.Cache
+E:\GitHubRepository\HNAssistant\Assistant\HNAssistantDemo\Demons\bin\Debug\Demons.exe.config
+E:\GitHubRepository\HNAssistant\Assistant\HNAssistantDemo\Demons\obj\Debug\Demons.exe
+E:\GitHubRepository\HNAssistant\Assistant\HNAssistantDemo\Demons\obj\Debug\Demons.pdb
